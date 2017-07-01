@@ -1,2 +1,2 @@
-# MinervaAutoML
-MinervaAutoML
+# Minerva Auto ML
+Minerva Auto ML
